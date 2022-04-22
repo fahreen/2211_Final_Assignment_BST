@@ -1,0 +1,71 @@
+Script started on Sun 02 Dec 2018 07:30:41 PM EST
+[?1034hbash-4.2$ ./mymakefile
+Please enter index pair, or E to exit
+ hello bye
+
+ key inserted successfully 
+Please enter index pair, or E to exit
+ hello bye
+Please enter index pair, or E to exit
+ hello bye
+Please enter index pair, or E to exit
+ hella bye
+
+ key inserted successfully 
+Please enter index pair, or E to exit
+ hello zye
+
+ key inserted successfully 
+Please enter index pair, or E to exit
+ dsfssd  sdjjehf
+
+ key inserted successfully 
+Please enter index pair, or E to exit
+ E
+
+String1		String2
+dsfssd		sdjjehf
+Occurence : 1
+
+hella		bye
+Occurence : 1
+
+hello		bye
+Occurence : 3
+
+hello		zye
+Occurence : 1
+
+bash-4.2$ ./mymakefile[C[C[C[C[C[C[C[C[C[C[8Pexit./mymakefile[4Pa.out < sample.txt
+Please enter index pair, or E to exit
+ 
+ key inserted successfully 
+Please enter index pair, or E to exit
+ 
+ key inserted successfully 
+Please enter index pair, or E to exit
+ Please enter index pair, or E to exit
+ 
+ key inserted successfully 
+Please enter index pair, or E to exit
+ 
+ key inserted successfully 
+Please enter index pair, or E to exit
+ 
+String1		String2
+aab		aab
+Occurence : 1
+
+aab		abb
+Occurence : 1
+
+bba		aa
+Occurence : 2
+
+bba		aaa
+Occurence : 1
+
+bash-4.2$ exit
+exit
+
+Script done on Sun 02 Dec 2018 07:31:51 PM EST
